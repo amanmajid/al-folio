@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: MENA
+description: Sustainable development of energy systems under varying mechanisms of transboundary cooperation
+img: #assets/img/3.jpg
 importance: 2
-category: work
+category: Energy
 ---
 
 Every project has a beautiful feature showcase page.

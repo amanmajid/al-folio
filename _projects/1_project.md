@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: JAMAICA
+description: Mapping climate risks and resilience in Jamaica's power system
+img: #assets/img/12.jpg
 importance: 1
-category: work
+category: Energy
 ---
 
 Every project has a beautiful feature showcase page.
